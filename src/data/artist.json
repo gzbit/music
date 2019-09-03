@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "Bayside",
+        "Origin": "Queens, New York, USA",
+        "Genre": "Alternative",
+        "Image": "https://images.victoryrecords.com/300/bayside.jpg",
+        "Biography": "When punk rock judgment day comes, everyone knows which side of the fence BAYSIDE will be on: the legitimate one." 
+        },
+    {
+        "Name": "Migos",
+        "Origin": "Atlanta, USA",
+        "Genre": "Rap",
+        "Image": "https://www.rollingstone.com/wp-content/uploads/2018/06/migos-9f83aef5-644f-4372-af82-8639ef75674e-e1530521648504.jpg",
+        "Biography": "Having grown up together in Atlanta, the members Quavo, Offset, and Takeoff first saw mainstream recognition with their 2013 single Versace."
+      
+    },
+    {
+        "Name": "Outkast",
+        "Origin": "Atlanta, USA",
+        "Genre": "Rap",
+        "Image": "https://notyourdadsvinyl.files.wordpress.com/2017/10/img_1691.jpg",
+        "Biography": "OutKast's Organized Noize production epitomized the Atlanta wing of hip-hop's rising force, the Dirty South, during the mid to late '90s. "
+    }
+]

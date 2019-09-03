@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Music`,
+    title: `NoobMusic`,
     description: `awsome music information to learn Gatsby`,
     author: `Guenther`,
   },
@@ -29,6 +29,14 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `src`,
+        path: `${__dirname}/src/data`
+      },
+    },
+    `gatsby-transformer-json` 
   ],
 }
